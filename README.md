@@ -5,11 +5,11 @@ We’ll walk through the steps to access the Ansible Lightspeed with IBM Watson 
 
 Agenda
 ------
-* Getting Connected: Installation and Configuration
-* A Quick Tour of Ansible Lightspeed: Generating Your First Task
+* Getting Connected: Installation and Configuration.
+* A Quick Tour of Ansible Lightspeed: Generating Your First Task.
 * How do I generate an Ansible Lightspeed suggestion?
   * Ansible best practices. We’ve got you covered.
   * Finalizing the Playbook.
   * Ansible Lightspeed with Watson Code Assistant and context.
   * Transparency and openness. Ansible Lightspeed Content Source Matching.
-  * Wrap-up
+  * Wrap-up.
